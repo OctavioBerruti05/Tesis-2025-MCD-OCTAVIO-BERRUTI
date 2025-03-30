@@ -1,2 +1,1 @@
-# Tesis-2025-MCD-OCTAVIO-BERRUTI
-Carpeta con archvios de tesis Maestria Ciencia de datos 2025
+Tesis Final Maestría Ciencia de datos - Octavio Berruti Nunes (4.880.500-6)
